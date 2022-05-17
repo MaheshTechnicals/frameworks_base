@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen pinning dialog description. (for devices without navbar) -->
+    <string name="screen_pinning_description_no_navbar">Aceasta îl ține la vedere până când anulați fixarea. Atingeți și țineți apăsat Înapoi pentru a anula fixarea.</string>
+    <!-- Notify use that they are in Lock-to-app (for devices without navbar)-->
+    <string name="screen_pinning_toast_no_navbar">Pentru a anula fixarea acestui ecran, atingeți și țineți apăsat butonul Înapoi</string>
+    <!-- Screen pinning dialog description. (for devices without navbar and with gestures on fingerprint sensor) -->
+    <string name="screen_pinning_description_no_navbar_fpsensor">Ecranul este afișat până anulați fixarea. Atingeți lung senzorul de amprentă pentru a anula fixarea.</string>
+    <!-- Notify use that they are in Lock-to-app (for devices without navbar and with gestures on fingerprint sensor)-->
+    <string name="screen_pinning_toast_no_navbar_fpsensor">Pentru a anula fixarea acestui ecran, atingeți și țineți apăsat senzorul de amprentă</string>
+    <!-- Face Unlock -->
+    <string name="face_unlock_recognizing">Se recunoaște fața...</string>
+    <!-- Title of statusbar tuner -->
+    <string name="status_bar_icons">Pictograme bară de stare</string>
+    <!-- Custom QS tiles -->
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">Afișaj ambiental</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Afișaj ambiental oprit.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Afișaj ambiental pornit.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">Afișaj ambiental dezactivat.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">Afișaj ambiental activat.</string>
+    <!-- AOD QS tile -->
+    <string name="quick_settings_aod_label">Afișaj ambiental</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD oprit\nEconomie energie</string>
+    <!-- PowerShare QS tile -->
+    <string name="quick_settings_powershare_label">Wireless PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Wireless PowerShare oprit\nEconomisire baterie</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Wireless PowerShare oprit\nBaterie prea slabă</string>
+    <string name="quick_settings_powershare_enabled_label">Wireless PowerShare este pornit</string>
+    <!-- Caffeine QS tile -->
+    <string name="quick_settings_caffeine_label">Cofeină</string>
+    <string name="accessibility_quick_settings_caffeine_off">Cofeină oprită.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Cofeină pornită.</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">Atenționare</string>
+    <string name="accessibility_quick_settings_heads_up_off">Atenționări dezactivate.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Atenționări activate.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Atenționările au fost oprite.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Atenționările au fost activate.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">Sincronizare</string>
+    <string name="accessibility_quick_settings_sync_off">Sincronizare oprită.</string>
+    <string name="accessibility_quick_settings_sync_on">Sincronizare pornită.</string>
+    <string name="accessibility_quick_settings_sync_changed_off">Sincronizarea este dezactivată.</string>
+    <string name="accessibility_quick_settings_sync_changed_on">Sincronizarea este activată.</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">Tethering prin USB</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">Mod lectură</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Mod lectură activat.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Mod lectură dezactivat.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">Modul lectură a fost activat.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">Modul lectură a fost dezactivat.</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">Anti-pâlpâire</string>
+    <!-- Autobrightness tile -->
+    <string name="quick_settings_autobrightness_label">Luminozitate automată</string>
+    <!-- Label for UI element which allows deleting the screenshot [CHAR LIMIT=30] -->
+    <string name="screenshot_delete_label">Ștergeți</string>
+    <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
+    <string name="screenshot_delete_description">Ștergere captură ecran</string>
+    <!-- Screenshot Delete Toast -->
+    <string name="delete_screenshot_toast">Captură de ecran ștearsă</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Repornire</string>
+    <string name="global_action_reboot_more">Avansat</string>
+    <string name="global_action_reboot_sub">Sistem</string>
+    <string name="global_action_reboot_recovery">Recuperare</string>
+    <string name="global_action_reboot_bootloader">Bootloader</string>
+    <string name="global_action_settings">Setări</string>
+</resources>
